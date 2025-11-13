@@ -8,7 +8,7 @@ Features
 📱 Fully responsive design
 🖼️ Fallback images for articles without thumbnails
 🔄 Dynamic category switching
-![NewsMag App](/image.png)
+![NewsMag App](/newsapp.png)
 Tech Stack
 
 React (v18+) - Frontend framework
