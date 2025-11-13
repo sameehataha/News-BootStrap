@@ -1,14 +1,20 @@
 NewsMag - React News Application
 A modern, responsive news application built with React that fetches and displays the latest news articles from various categories using the NewsAPI.
-Features
 
+Features
 📰 Real-time news updates from NewsAPI
+
 🎯 Multiple news categories (Technology, Business, Health, Science, Sports, Entertainment)
+
 🎨 Dark-themed UI using Bootstrap
+
 📱 Fully responsive design
+
 🖼️ Fallback images for articles without thumbnails
+
 🔄 Dynamic category switching
-![NewsMag App](/newsapp.png)
+
+![NewsMag App](/news.png)
 Tech Stack
 
 React (v18+) - Frontend framework
@@ -30,7 +36,7 @@ cd news
 
 Set up environment variables
 Create a .env file in the root directory:
-VITE_API_KEY=your_newsapi_key_here
+VITE_API_KEY=c3deddf7f769447b9d973e0c8e9e14a4
 
 Run the development server
 npm run dev
